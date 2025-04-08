@@ -1,0 +1,20 @@
+===========
+	funkcije
+===========
+unos
+ispis
+sortiranje
+pretrazivanje
+uredivanje
+brisanje
+============
+	stavke
+============
+zupanije
+podrucja zanimanja
+broj zaposlenih
+------------
+|||
+VVV
+ukupno, zene, muskarci
+============
